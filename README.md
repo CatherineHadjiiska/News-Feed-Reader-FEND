@@ -1,5 +1,5 @@
 # FEED READER TESTING FOR UDACITY FEND NANODEGREE
-This is te Feed Reader Testing project, part of the Udacity's Front-end nanodegree programme.
+This is the Feed Reader Testing project, part of the Udacity's Front-end nanodegree programme. <br />
 Task: To implement tests using Jasmine for an already built application. 
 
 # Run the app on your device
